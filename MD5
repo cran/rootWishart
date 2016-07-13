@@ -1,0 +1,14 @@
+d80abcfd1d9efe62b3e065d9c4ab8267 *DESCRIPTION
+d0eb6035d304986c2adf8fe578ae7ad0 *NAMESPACE
+a66c2df110c52644a9829d1d2bcadb34 *NEWS.md
+6d46354f7af085a3a9258ace64433409 *R/RcppExports.R
+b9aab989cd178252a7a9769f71ab9197 *R/functions.R
+92a9183cad70ff22a57719d7576e6612 *R/utility.R
+a7b5282df59b1644875de8d8b588fb0e *R/zzz.R
+4b4eff646a34016f688cab2f67a24ff2 *README.md
+d3b6f80041d9871e38adf38129b2e6b0 *man/largestRoot.Rd
+348abeac3c34c2d0184094bd45037859 *src/Makevars
+348abeac3c34c2d0184094bd45037859 *src/Makevars.win
+70b31aee82b4093b90f06edc33a74132 *src/RcppExports.cpp
+168451dbcd762fb53b640d396e8e2540 *src/doubleWishart.cpp
+20348817c129a83019ea8862635130a6 *src/singleWishart.cpp
