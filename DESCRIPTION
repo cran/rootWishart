@@ -1,7 +1,7 @@
 Package: rootWishart
 Title: Distribution of Largest Root for Single and Double Wishart
         Settings
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: person("Maxime", "Turgeon",
  email = "maxime.turgeon@mail.mcgill.ca", role = c("aut", "cre"))
 Description: Functions for hypothesis testing in single and double Wishart
@@ -17,13 +17,13 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: yes
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 LinkingTo: Rcpp, RcppEigen, BH
 Imports: Rcpp
 URL: http://github.com/turgeonmaxime/rootWishart
 BugReports: http://github.com/turgeonmaxime/rootWishart/issues
-Packaged: 2016-07-13 13:24:05 UTC; mturgeon
+Packaged: 2017-04-30 22:02:33 UTC; mturgeon
 Author: Maxime Turgeon [aut, cre]
 Maintainer: Maxime Turgeon <maxime.turgeon@mail.mcgill.ca>
 Repository: CRAN
-Date/Publication: 2016-07-13 16:17:16
+Date/Publication: 2017-04-30 22:30:30 UTC
